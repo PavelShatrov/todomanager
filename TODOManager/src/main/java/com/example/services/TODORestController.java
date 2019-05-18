@@ -18,6 +18,8 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 
 // bugfix_1
 
+// bugfix_2
+
 /**
  * TODO Manager REST Controller
  * @author Pavel Shatrov
