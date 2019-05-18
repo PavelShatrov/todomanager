@@ -16,6 +16,8 @@ import static org.springframework.web.bind.annotation.RequestMethod.POST;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.CrossOrigin;
 
+// bugfix_1
+
 /**
  * TODO Manager REST Controller
  * @author Pavel Shatrov
